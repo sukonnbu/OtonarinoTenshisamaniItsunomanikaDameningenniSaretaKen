@@ -72,5 +72,6 @@
 
 - - -
 
-![Alt text](image.png)
+![image](https://github.com/sukonnbu/OtonarinoTenshisamaniItsunomanikaDameningenniSaretaKen/assets/96362982/f7c2c6ef-14f5-4467-be17-2dd749c12703)
+
 _옆집천사의 위엄.png_
